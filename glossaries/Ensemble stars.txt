@@ -33,7 +33,7 @@ Ayase Mayoi =礼濑 真宵
 Ran Nagisa =乱 凪砂
 Tomoe Hiyori = 巴 日和
 Saegusa Ibara = 七种 茨
-Sazanami Jun = 涟纯
+Sazanami Jun = 涟 纯
 
 // Valkyrie
 Kagehira Mika = 影片 美伽 
@@ -64,7 +64,7 @@ Tenma Mitsuru = 天满 光
 // 红月Akatsuki
 Hasumi Keito = 莲巳 敬人
 Kiryu Kuro = 鬼龙 红郎
-Kanzaki Soum = 神崎 飒马
+Kanzaki Souma = 神崎 飒马
 Taki Ibuki = 泷 维吹
 
 // Knights
@@ -77,7 +77,7 @@ Narukami Arashi = 鸣上 岚
 // Switch
 Sakasaki Natsume = 逆先 夏目
 Aoba Tsumugi = 青叶  纺
-Harukawa Sora = 春川宙
+Harukawa Sora = 春川 宙
 
 // MaM
 Mikejima Madara = 三毛缟 斑
@@ -96,7 +96,7 @@ Kunugi Akiomi = 门 章臣
 // 地点及其他
 Akatsuki = 红月
 Ryuseitai = 流星队
-Yumenosaki Academy = 梦之咲学院
+Yumenosaki Academy = 梦之咲 学院
 Seisoukan Apartment : 星奏馆
 Seisoukan = 星奏馆
 Starmony Dorms : 星奏馆
