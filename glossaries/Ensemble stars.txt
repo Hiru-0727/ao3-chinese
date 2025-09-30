@@ -1,0 +1,131 @@
+维护者：Hilgard
+版本号：1.0.0
+更新时间：2025-09-30
+
+词条
+
+// fine
+Tenshouin Eichi = 天祥院 英智
+Hibiki Wataru = 日日树 涉
+Himemiya Tori = 姬宫桃 李
+Fushimi Yuzuru = 伏见 弓弦
+
+// Trickstar
+Hidaka Hokuto = 冰鹰 北斗
+Isara Mao = 衣更 真绪
+Yuuki Makoto = 游木 真
+Akehoshi Subaru =明星 昴流
+
+// 流星队 (Ryuseitai)
+Morisawa Chiaki =守泽 千秋
+Shinkai Kanata =深海 奏汰
+Takamine Midori =高峯 翠
+Nagumo Tetora =南云 铁虎
+Sengoku Shinobu =仙石 忍
+
+// ALKALOID
+Amagi Hiiro =天城 一彩
+Shiratori Aira =白鸟 蓝良
+Kazehaya Tatsumi =风早 巽
+Ayase Mayoi =礼濑 真宵
+
+// Eden
+Ran Nagisa =乱 凪砂
+Tomoe Hiyori = 巴 日和
+Saegusa Ibara = 七种 茨
+Sazanami Jun = 涟纯
+
+// Valkyrie
+Kagehira Mika = 影片 美伽 
+Itsuki Shu = 斋宫 宗
+
+// 2wink
+Aoi Hinata = 葵 日向 
+Aoi Yuta = 葵 裕太
+
+// crazy:B
+Amagi Rinne = 天城 燐音
+HiMERU = HIMERU
+Shiina Niki = 椎名 丹希
+Oukawa Kohaku = 樱河 琥珀
+
+// UNDEAD
+Sakuma Rei = 朔间 零
+Hakaze Kaoru =羽风 薰
+Oogami Koga =大神 晃牙
+Otogari Adonis =乙狩 阿多尼斯
+
+// Ra*bits
+Mashiro Tomoya = 真白 友也
+Nito Nazuna = 仁兔 成鸣
+Shino Hajime =紫之 创
+Tenma Mitsuru = 天满 光
+
+// 红月Akatsuki
+Hasumi Keito = 莲巳 敬人
+Kiryu Kuro = 鬼龙 红郎
+Kanzaki Soum = 神崎 飒马
+Taki Ibuki = 泷 维吹
+
+// Knights
+Suou Tsukasa = 朱樱 司
+Tsukinaga Leo = 月永 雷欧
+Sena Izumi = 濑名 泉
+Sakuma Ritsu = 朔间 凛月
+Narukami Arashi = 鸣上 岚
+
+// Switch
+Sakasaki Natsume = 逆先 夏目
+Aoba Tsumugi = 青叶  纺
+Harukawa Sora = 春川宙
+
+// MaM
+Mikejima Madara = 三毛缟 斑
+
+// Special for Princess
+Sagiri Esu = 冴雾 笑主
+Natsu Kanna = 名都 神无
+Hanamura Fuyume = 花群 冬芽
+Hojo Raika = 宝丈 莱香
+
+
+// J&A
+Sagami Jin = 佐贺美 阵
+Kunugi Akiomi = 门 章臣
+
+// 地点及其他
+Akatsuki = 红月
+Ryuseitai = 流星队
+Yumenosaki Academy = 梦之咲学院
+Seisoukan Apartment : 星奏馆
+Seisoukan = 星奏馆
+Starmony Dorms : 星奏馆
+Seisou Hall : 星奏馆
+
+禁翻词条
+
+// 乐队
+fine
+Trickstar
+ALKALOID
+Eden
+Valkyrie
+2wink
+crazy:B
+UNDEAD
+Ra*bits
+Knights
+Switch
+MaM
+Special for Princess
+
+//事务所
+ES
+Starmaker Production
+STARMAKER PRODUCTION
+Rhythm Link 
+Cosmic Production 
+New Dimension
+STAR PRO
+COS PRO
+NEW DI
