@@ -7,7 +7,7 @@
 // fine
 Tenshouin Eichi = 天祥院 英智
 Hibiki Wataru = 日日树 涉
-Himemiya Tori = 姬宫桃 李
+Himemiya Tori = 姬宫 桃李
 Fushimi Yuzuru = 伏见 弓弦
 
 // Trickstar
