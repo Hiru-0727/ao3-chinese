@@ -118,13 +118,11 @@ Corn Field = 玉米田
 America's Kingdom of Science = 美国科学王国
 
 //装置术语
-dragos = 龙元
 Petrification Beam = 石化光线
 Petrification Device = 石化装置
 Petrification = 石化
 Revival Fluid = 复活液
 Steam Gorilla = 蒸汽猩猩号
-Medusa = 美杜莎
 Nitric Acid Factory = 硝酸工厂
 Petrification Source = 石化源头
 
@@ -140,3 +138,8 @@ Carbon Fiber = 碳纤维
 Antibiotics = 抗生素
 Cryogenic Freezing = 低温冷冻 
 Radar = 雷达
+
+//其他术语
+mentalist = 心灵魔术师
+dragos = 龙元
+Medusa = 美杜莎
